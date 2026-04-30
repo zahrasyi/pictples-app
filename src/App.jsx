@@ -32,7 +32,7 @@ const SwagSticker = ({ className }) => (
 const THEMES = {
   memphis: {
     name: "1",
-    container: "bg-memphis-pattern border-[6px] border-black shadow-[10px_10px_0px_0px_rgba(0,0,0,1)]",
+    container: "bg-memphis-tiles bg-repeat border-[6px] border-black shadow-[10px_10px_0px_0px_rgba(0,0,0,1)]",
     slot: "border-4 border-black bg-white/10 backdrop-blur-[2px]",
     font: "font-cherry text-black", 
     label: "GORGEOUS",
