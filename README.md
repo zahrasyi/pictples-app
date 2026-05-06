@@ -1,5 +1,7 @@
 # 📸 PICTPLES — Set and Say Cheese! 🧀
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ecc57bb-da2e-4ad3-898c-a227058f2898" />
+
 **PICTPLES** adalah aplikasi *Virtual Photobooth* berbasis web yang dirancang untuk memberikan pengalaman mengambil foto estetik secara instan. Aplikasi ini memungkinkan pengguna mengambil 3 foto berurutan menggunakan kamera laptop dan menyusunnya dalam satu *frame strip* digital yang unik secara otomatis.
 
 ## 🚀 Live Demo
