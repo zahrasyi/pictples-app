@@ -31,9 +31,3 @@ Akses aplikasi melalui tautan berikut:
 3.  Klik tombol **"AMBIL FOTO"**.
 4.  Lakukan pose! Kamu memiliki waktu 3 detik untuk setiap frame foto.
 5.  Setelah selesai, klik **"SIMPAN STRIP"** untuk mengunduh hasil foto ke galeri laptop.
-
-## ⚙️ Instalasi Lokal
-1. Clone repository:
-   ```bash
-   git clone [https://github.com/zahrasyi/PICTPLES.git](https://github.com/zahrasyi/PICTPLES.git)
-   cd PICTPLES
